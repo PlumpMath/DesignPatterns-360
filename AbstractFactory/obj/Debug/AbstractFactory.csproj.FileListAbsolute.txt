@@ -1,0 +1,7 @@
+C:\Users\Lynn\documents\visual studio 2015\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Lynn\documents\visual studio 2015\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Lynn\documents\visual studio 2015\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Lynn\documents\visual studio 2015\Projects\DesignPatterns\AbstractFactory\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Lynn\documents\visual studio 2015\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\documents\visual studio 2015\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Lynn\documents\visual studio 2015\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
